@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Medopedia</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or_sign_up_with">------OR SIGN UP WITH------</string>
+    <string name="skip">SKIP</string>
+
+    <string name="button_transition">button_transition</string>
+
+    <string name="search">Search…</string>
+
+    <string name="access_token">8dd36b7b77722878ce5dd992b0a58269540858b2d5a9c5f1a8aac9e120a9c2d6</string>
+    <string name="host_url">http://www.healthos.co/api/v1/</string>
+    <string name="search_medicine_url">search/medicines/brands/</string>
+    <string name="alternate_medicine_url">medicines/brands/%s/alternatives?</string>
+
+    <string name="stop_alarm">Stop alarm</string>
+</resources>

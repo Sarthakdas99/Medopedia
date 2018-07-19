@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874494690059",
+    "firebase_url": "https://medopedia-c581d.firebaseio.com",
+    "project_id": "medopedia-c581d",
+    "storage_bucket": "medopedia-c581d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874494690059:android:c9f5e0a3af257278",
+        "android_client_info": {
+          "package_name": "com.sarthak.medopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874494690059-rjmb0eekjet3rbuv0dofcvhldnfd1etm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarthak.medopedia",
+            "certificate_hash": "d8542733e594a3cfa6e1580a48b5b21b4c5af81d"
+          }
+        },
+        {
+          "client_id": "874494690059-iqnquli1lsksbu778l14fle5oei6l774.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFtKJ7vmoBfmt0y_FcxmE8Tt-MjFQ0Os"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874494690059-iqnquli1lsksbu778l14fle5oei6l774.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
